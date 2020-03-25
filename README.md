@@ -1,2 +1,2 @@
-# DataFlow
-ICP-MS data reduction
+# DataFlow-solution
+ICP-MS data reduction software
